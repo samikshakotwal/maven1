@@ -1,4 +1,4 @@
-package com.fortune.mujavaaap;
+package com.fortune.myjavaaap;
 
 import org.junit.jupiter.api.Test;
 
